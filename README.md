@@ -3,7 +3,7 @@ Welcome to Somix's Page 🐳
 Hi, I'm Salvatore Cirone, also known on the internet as *Somix*. 
 
 ---
-### About me 
+### About me 👤
 I'm an Italian guy, in my twenties, passionate about computer science, but really with everything that tech related.
 
 I earned a Bachelor's Degree in Computer Engineering in 2020. In this period I'm constantly searching for some new cool stuff to learn.
@@ -19,7 +19,7 @@ Ah yes, I'm also a Guitarist with core knowledge of music theory.
 And I really want to learn Ruby on Rails in the near future!
 
 ---
-### Where can you find me?
+### Where can you find me? 🚀
 
 [![Linkedin](https://i.imgur.com/OQUXwNp.jpeg)](https://www.linkedin.com/in/salvatore-cirone-it/)
 
