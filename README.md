@@ -23,3 +23,5 @@ And I really want to learn Ruby on Rails in the near future!
 
 
 *I'm really trying to get into the open source development and contribution so feel free to contact me for any project!*
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akaSomix&theme=tokyonight)
