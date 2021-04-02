@@ -10,7 +10,7 @@ Ah yes, I'm also a Guitarist with core knowledge of music theory.
 
 ---
 ### Technologies that I enjoy to use 👨‍💻
-- Python (a lot)
+- Python
 - Java (and the Spring Framework)
 - Javascript (Vue.js and Node.js)
 
