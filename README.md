@@ -19,7 +19,10 @@ And I really want to learn Ruby on Rails in the near future!
 ---
 ### Where can you find me? 🚀
 
-[![Linkedin](https://github.com/akaSomix/akaSomix/blob/main/assets/LinkedIn.png)](https://www.linkedin.com/in/salvatore-cirone-it/)
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/salvatore-cirone-it/">
+    <img src="https://github.com/akaSomix/akaSomix/blob/main/assets/LinkedIn.png" alt="Linkedin" height="80" style="vertical-align:top; margin:4px">
+  </a>
+</p>
 
 *I'm really trying to get into the open source development and contribution so feel free to contact me for any project!*
