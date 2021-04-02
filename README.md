@@ -21,7 +21,10 @@ And I really want to learn Ruby on Rails in the near future!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/salvatore-cirone-it/" target="_blank">
-    <img src="https://github.com/akaSomix/akaSomix/blob/main/assets/LinkedIn.png" alt="Linkedin" height="80" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/akaSomix/akaSomix/blob/main/assets/LinkedIn.png" alt="Linkedin" height="80" style="vertical-align:top; margin:20px">
+  </a>
+  <a href="https://www.linkedin.com/in/salvatore-cirone-it/" target="_blank">
+    <img src="https://github.com/akaSomix/akaSomix/blob/main/assets/Reddit.png" alt="Linkedin" height="80" style="vertical-align:top; margin:20px">
   </a>
 </p>
 
