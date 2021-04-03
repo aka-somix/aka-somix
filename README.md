@@ -24,8 +24,12 @@ And I really want to learn Ruby on Rails in the near future!
     <img src="https://github.com/akaSomix/akaSomix/blob/main/assets/LinkedIn.png" alt="Linkedin" height="80" style="vertical-align:top; margin:20px">
   </a>
   <a href="https://www.reddit.com/user/akaSomix" target="_blank">
-    <img src="https://github.com/akaSomix/akaSomix/blob/main/assets/Reddit.png" alt="Linkedin" height="80" style="vertical-align:top; margin:20px">
+    <img src="https://github.com/akaSomix/akaSomix/blob/main/assets/Reddit.png" alt="Reddit" height="80" style="vertical-align:top; margin:20px">
+  </a>
+  <a href="mailto:somix.land@null.net">
+    <img src="https://github.com/akaSomix/akaSomix/blob/main/assets/Mail.png" alt="MailTo" height="80" style="vertical-align:top; margin:20px">
   </a>
 </p>
 
+---  
 *I'm really trying to get into the open source development and contribution so feel free to contact me for any project!*
