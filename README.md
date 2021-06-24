@@ -14,8 +14,6 @@ Ah yes, I'm also a Guitarist with core knowledge of music theory.
 - Java (and the Spring Framework)
 - Javascript (Vue.js and Node.js)
 
-And I really want to learn Ruby on Rails in the near future!
-
 ---
 ### Where can you find me? 🚀
 
