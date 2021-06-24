@@ -29,5 +29,3 @@ Ah yes, I'm also a Guitarist with kinda solid knowledge of music theory.
   </a>
 </p>
 
----  
-*I'm really trying to get into the open source development and contribution so feel free to contact me for any project!*
