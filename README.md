@@ -14,7 +14,7 @@ Ah yes, I'm also a Guitarist in my free time.
 ### What Languages and Technoloies I am using lately 👨‍💻
 - Python
 - Typescript 
-- AWS (serverless services mainly)
+- AWS (Solution Architect Associate)
 
 ---
 ### Where you can find me 🔍
