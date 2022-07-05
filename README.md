@@ -2,7 +2,7 @@ Welcome to Somix's Page
 ======
 Hi, I'm Salvatore Cirone, also known on the internet as *Somix*. 
 
-## 🐳 About me 
+## 🌍 About me 
 ![](https://raw.githubusercontent.com/akaSomix/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/akaSomix/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
