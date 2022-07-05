@@ -6,11 +6,15 @@ Hi, I'm Salvatore Cirone, also known on the internet as *Somix*.
 ![](https://raw.githubusercontent.com/akaSomix/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/akaSomix/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
-I'm an Italian guy 🇮🇹 in my twenties, passionate about computer science. I always try to come up with some stupid idea of 
+I'm an 🇮🇹 Italian guy in my twenties, passionate about computer science and tech stuff. I always try to come up with some stupid idea of 
 someting to build just to keep me from getting bored. And when I'm not doing that is probably because I'm out there learning something new.
-Right now I'm pretty busy working for Storm Reply though.
-I obtained a Bachelor's Degree in Computer Engineering in 2020.
-Ah yes, I'm also a Guitarist in my free time. 
+Right now I'm pretty busy working at Storm Reply.  
+
+### 🛣 Life Roadmap  
+- [x] 🎓 Bachelor's Degree in Computer Engineering (2020)
+- [x] 📜 AWS Solution Architect Associate (2022)
+- [ ] 🎓 Master's Degree in Computer Engineering
+- [ ] ...
 
 
 ## 👨‍💻 What I am up lately 
