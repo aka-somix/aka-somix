@@ -29,9 +29,21 @@ Right now I'm pretty busy working at Storm Reply.
 
 <table>
   <tr>
-    <td><img src="https://github.com/akaSomix/akaSomix/blob/main/assets/Email.png" alt="MailTo" height="70"></td>
-    <td><img src="https://github.com/akaSomix/akaSomix/blob/main/assets/Linkedin.png" alt="Linkedin" height="70"></td>
-    <td><img src="https://github.com/akaSomix/akaSomix/blob/main/assets/medium.png" alt="Medium" height="70"></td>
+    <td>
+      <a href="mailto:somix.land@null.net">
+        <img src="https://github.com/akaSomix/akaSomix/blob/main/assets/Email.png" alt="MailTo" height="70">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/salvatore-cirone-it/">
+        <img src="https://github.com/akaSomix/akaSomix/blob/main/assets/Linkedin.png" alt="Linkedin" height="70">
+      </a>
+    </td>
+    <td>
+      <a href="https://medium.com/@salvatorecirone">
+        <img src="https://github.com/akaSomix/akaSomix/blob/main/assets/medium.png" alt="Medium" height="70">
+      </a>
+    </td>
   </tr>
   <tr>
     <td>E-mail</td>
