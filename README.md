@@ -30,12 +30,15 @@ Right now I'm pretty busy working at Storm Reply.
 <div align="left">
   <a href="mailto:somix.land@null.net">
     <img src="https://github.com/akaSomix/akaSomix/blob/main/assets/Email.png" alt="MailTo" height="50" >
+    <p>E-mail</p>
   </a>
   <a href="https://www.linkedin.com/in/salvatore-cirone-it/" target="_blank">
     <img src="https://github.com/akaSomix/akaSomix/blob/main/assets/Linkedin.png" alt="Linkedin" height="50">
+    <p>Linkedin</p>
   </a>
   <a href="https://medium.com/@salvatorecirone" target="_blank">
-    <img src="https://github.com/akaSomix/akaSomix/blob/main/assets/medium.png" alt="Reddit" height="50" >
+    <img src="https://github.com/akaSomix/akaSomix/blob/main/assets/medium.png" alt="Medium" height="50" >
+    <p>Medium</p>
   </a>  
 
 </div>
