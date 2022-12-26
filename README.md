@@ -24,18 +24,18 @@ Right now I'm pretty busy working at Storm Reply.
 - API development with JS/TS
 - Writing Stories on Medium (or at least trying to)
 
----
-### 🔍 Come Find me on: 
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/salvatore-cirone-it/" target="_blank">
-    <img src="https://github.com/akaSomix/akaSomix/blob/main/assets/LinkedIn.png" alt="Linkedin" height="80" style="vertical-align:top; margin:20px">
-  </a>
-  <a href="https://www.reddit.com/user/akaSomix" target="_blank">
-    <img src="https://github.com/akaSomix/akaSomix/blob/main/assets/Reddit.png" alt="Reddit" height="80" style="vertical-align:top; margin:20px">
-  </a>
+## 🔍 Come Find me on: 
+
+<div align="left">
   <a href="mailto:somix.land@null.net">
-    <img src="https://github.com/akaSomix/akaSomix/blob/main/assets/Mail.png" alt="MailTo" height="80" style="vertical-align:top; margin:20px">
+    <img src="https://github.com/akaSomix/akaSomix/blob/main/assets/email.png" alt="MailTo" height="50" >
   </a>
-</p>
+  <a href="https://www.linkedin.com/in/salvatore-cirone-it/" target="_blank">
+    <img src="https://github.com/akaSomix/akaSomix/blob/main/assets/linkedin.png" alt="Linkedin" height="50">
+  </a>
+  <a href="https://medium.com/@salvatorecirone" target="_blank">
+    <img src="https://github.com/akaSomix/akaSomix/blob/main/assets/medium.png" alt="Reddit" height="50" >
+  </a>  
 
+</div>
