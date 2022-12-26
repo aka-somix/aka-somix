@@ -25,20 +25,17 @@ Right now I'm pretty busy working at Storm Reply.
 - Writing Stories on Medium (or at least trying to)
 
 
-## 🔍 Come Find me on: 
+## 🔍 Come Find me on:
 
-<div align="left">
-  <a href="mailto:somix.land@null.net">
-    <img src="https://github.com/akaSomix/akaSomix/blob/main/assets/Email.png" alt="MailTo" height="50" >
-    <p>E-mail</p>
-  </a>
-  <a href="https://www.linkedin.com/in/salvatore-cirone-it/" target="_blank">
-    <img src="https://github.com/akaSomix/akaSomix/blob/main/assets/Linkedin.png" alt="Linkedin" height="50">
-    <p>Linkedin</p>
-  </a>
-  <a href="https://medium.com/@salvatorecirone" target="_blank">
-    <img src="https://github.com/akaSomix/akaSomix/blob/main/assets/medium.png" alt="Medium" height="50" >
-    <p>Medium</p>
-  </a>  
-
-</div>
+<table>
+  <tr>
+    <td><img src="https://github.com/akaSomix/akaSomix/blob/main/assets/Email.png" alt="MailTo" height="70"></td>
+    <td><img src="https://github.com/akaSomix/akaSomix/blob/main/assets/Linkedin.png" alt="Linkedin" height="70"></td>
+    <td><img src="https://github.com/akaSomix/akaSomix/blob/main/assets/medium.png" alt="Medium" height="70"></td>
+  </tr>
+  <tr>
+    <td>E-mail</td>
+     <td>Linkedin</td>
+     <td>Medium</td>
+  </tr>
+ </table>
