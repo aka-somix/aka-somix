@@ -22,6 +22,7 @@ Right now I'm pretty busy working at Storm Reply.
 - AWS Architecting and Developing @StormReply
 - Data analytics with Python
 - API development with JS/TS
+- Writing Stories on Medium (or at least trying to)
 
 ---
 ### 🔍 Come Find me on: 
