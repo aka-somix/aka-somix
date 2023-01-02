@@ -25,7 +25,7 @@ Right now I'm pretty busy working at Storm Reply.
 - Writing Stories on Medium (or at least trying to)
 
 
-## 🔍 Come Find me on:
+## 🔍 Reach out! 
 
 <table>
   <tr>
