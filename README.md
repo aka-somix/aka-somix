@@ -13,6 +13,7 @@ Right now I'm pretty busy working at Storm Reply.
 ### 🛣 Life Roadmap  
 - [x] 🎓 Bachelor's Degree in Computer Engineering (2020)
 - [x] 📜 AWS Solution Architect Associate (2022)
+- [x] 📦 First Open Source Contribution (2023)
 - [ ] 🎓 Master's Degree in Computer Engineering
 - [ ] ...
 
