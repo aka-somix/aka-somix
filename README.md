@@ -1,22 +1,24 @@
-Hi! I am Salvatore 🐳 
-======
+<img src="https://github.com/akaSomix/akaSomix/blob/main/assets/header360.png" >
+
+# Hi! I am Salvatore 🐳 
+
 My name is Salvatore Cirone, also known on the internet as *Somix*. 
 
 <table>
   <tr>
     <td>
       <a href="mailto:somix.land@null.net">
-        <img src="https://github.com/akaSomix/akaSomix/blob/main/assets/Email.png" alt="MailTo" height="70">
+        <img src="https://github.com/akaSomix/akaSomix/blob/main/assets/Email.png" alt="MailTo" height="60">
       </a>
     </td>
     <td>
       <a href="https://www.linkedin.com/in/salvatore-cirone-it/">
-        <img src="https://github.com/akaSomix/akaSomix/blob/main/assets/Linkedin.png" alt="Linkedin" height="70">
+        <img src="https://github.com/akaSomix/akaSomix/blob/main/assets/Linkedin.png" alt="Linkedin" height="60">
       </a>
     </td>
     <td>
       <a href="https://medium.com/@salvatorecirone">
-        <img src="https://github.com/akaSomix/akaSomix/blob/main/assets/medium.png" alt="Medium" height="70">
+        <img src="https://github.com/akaSomix/akaSomix/blob/main/assets/medium.png" alt="Medium" height="60">
       </a>
     </td>
   </tr>
@@ -34,17 +36,19 @@ My name is Salvatore Cirone, also known on the internet as *Somix*.
 I'm an 🇮🇹 Italian guy, passionate about computer science and tech. Creative and passionate, always out there trying learning something new.
 When I come out of my IT outfit, I like to experiment with music and spend time outside doing whatever.  
 
-<img src="https://github.com/akaSomix/akaSomix/blob/main/assets/Linkedin.png" height="30">
 
-### 🛣 2023 Roadmap
+## 🛣 Roadmap 2023
 - [x] 📦 First Open Source Contribution
 - [ ] 📜 AWS DevOps Professional Certification
 - [ ] 🎓 Master's Degree in Computer Engineering (hopefully)
 - [ ] 🖼️ Improve Front-End development skills
 
+---
 
 ## 👨‍💻 What I am up lately 
 - AWS Architecting and Developing @StormReply
 - Learning **GO Lang** and **Rust**
 - API development with JS/TS
 - Writing Stories on Medium (or at least trying to)
+
+<img src="https://github.com/akaSomix/akaSomix/blob/main/assets/footer.png">
