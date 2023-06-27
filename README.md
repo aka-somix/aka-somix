@@ -34,6 +34,7 @@ My name is Salvatore Cirone, also known on the internet as *Somix*.
 I'm an 🇮🇹 Italian guy, passionate about computer science and tech. Creative and passionate, always out there trying learning something new.
 When I come out of my IT outfit, I like to experiment with music and spend time outside doing whatever.  
 
+<img src="https://github.com/akaSomix/akaSomix/blob/main/assets/Linkedin.png" height="30">
 
 ### 🛣 2023 Roadmap
 - [x] 📦 First Open Source Contribution
@@ -47,5 +48,3 @@ When I come out of my IT outfit, I like to experiment with music and spend time 
 - Learning **GO Lang** and **Rust**
 - API development with JS/TS
 - Writing Stories on Medium (or at least trying to)
-
-## Other then programming
