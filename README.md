@@ -1,32 +1,6 @@
-Welcome to Somix's Page 
+Hi! I am Salvatore 🐳 
 ======
-Hi, I'm Salvatore Cirone, also known on the internet as *Somix*. 
-
-## 🌍 About me 
-![](https://raw.githubusercontent.com/akaSomix/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/akaSomix/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-
-I'm an 🇮🇹 Italian guy in my twenties, passionate about computer science and tech stuff. I always try to come up with some stupid idea of 
-someting to build just to keep me from getting bored. And when I'm not doing that is probably because I'm out there learning something new.
-Right now I'm pretty busy working at Storm Reply.  
-
-### 🛣 Life Roadmap  
-- [x] 🎓 Bachelor's Degree in Computer Engineering (2020)
-- [x] 📜 AWS Solution Architect Associate (2022)
-- [x] 📦 First Open Source Contribution (2023)
-- [ ] 🎓 Master's Degree in Computer Engineering
-- [ ] ...
-
-
-## 👨‍💻 What I am up lately 
-
-- AWS Architecting and Developing @StormReply
-- Data analytics with Python
-- API development with JS/TS
-- Writing Stories on Medium (or at least trying to)
-
-
-## 🔍 Reach out! 
+My name is Salvatore Cirone, also known on the internet as *Somix*. 
 
 <table>
   <tr>
@@ -52,3 +26,26 @@ Right now I'm pretty busy working at Storm Reply.
      <td>Medium</td>
   </tr>
  </table>
+
+## 🌍 About me 
+![](https://raw.githubusercontent.com/akaSomix/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/akaSomix/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+
+I'm an 🇮🇹 Italian guy, passionate about computer science and tech. Creative and passionate, always out there trying learning something new.
+When I come out of my IT outfit, I like to experiment with music and spend time outside doing whatever.  
+
+
+### 🛣 2023 Roadmap
+- [x] 📦 First Open Source Contribution
+- [ ] 📜 AWS DevOps Professional Certification
+- [ ] 🎓 Master's Degree in Computer Engineering (hopefully)
+- [ ] 🖼️ Improve Front-End development skills
+
+
+## 👨‍💻 What I am up lately 
+- AWS Architecting and Developing @StormReply
+- Learning **GO Lang** and **Rust**
+- API development with JS/TS
+- Writing Stories on Medium (or at least trying to)
+
+## Other then programming
