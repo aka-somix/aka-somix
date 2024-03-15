@@ -37,12 +37,6 @@ I'm an 🇮🇹 Italian guy, passionate about computer science and tech. Creativ
 When I come out of my IT outfit, I like to experiment with music and spend time outside doing whatever.  
 
 
-## 🛣 Roadmap 2023
-- [x] 📦 First Open Source Contribution
-- [ ] 📜 AWS DevOps Professional Certification
-- [ ] 🎓 Master's Degree in Computer Engineering (hopefully)
-- [ ] 🖼️ Improve Front-End development skills
-
 ---
 
 ## 👨‍💻 What I am up lately 
