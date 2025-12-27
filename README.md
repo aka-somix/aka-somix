@@ -37,12 +37,4 @@ I'm an 🇮🇹 Italian guy, passionate about computer science and tech. Creativ
 When I come out of my IT outfit, I like to experiment with music and spend time outside doing whatever.  
 
 
----
-
-## 👨‍💻 What I am up lately 
-- AWS Architecting and Developing @StormReply
-- Learning **GO Lang** and **Rust**
-- API development with JS/TS
-- Writing Stories on Medium (or at least trying to)
-
 <img src="https://github.com/akaSomix/akaSomix/blob/main/assets/footer.png">
