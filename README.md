@@ -80,12 +80,6 @@ class Somix:
 
 <br/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aka-somix&theme=algolia&column=6&margin-w=10&margin-h=10"/>
-</div>
-
-<br/>
-
 
 ## `// connect with me`
 
