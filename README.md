@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3e2c60,100:85409D&height=200&section=header&text=Somix&fontSize=70&fontColor=EEA727&animation=fadeIn&fontAlignY=38&desc=Salvatore%20Cirone%20%7C%20Software%20Engineer&descAlignY=62&descSize=20&descColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3e2c60,100:85409D&height=200&section=header&text=Somix&fontSize=70&fontColor=EEA727&animation=fadeIn&fontAlignY=38&desc=Salvatore%20Cirone%20%7C%20Software%20Engineer&descAlignY=62&descSize=20&descColor=ffffff&fontFamily=JetBrains+Mono"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=EEA727&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Salvatore+%F0%9F%91%8B;aka+aka-somix;Software+Engineer+%F0%9F%9A%80;Based+in+Italy+%F0%9F%87%AE%F0%9F%87%B9" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=EEA727&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Salvatore+%F0%9F%91%8B;aka+somix;Software+Engineer+%F0%9F%9A%80;Based+in+Italy+%F0%9F%87%AE%F0%9F%87%B9" alt="Typing SVG" />
 </p>
 
 <br/>
@@ -12,13 +12,13 @@ class Somix:
     alias    = "aka-somix"
     role     = "Software Engineer"
     location = "Italy 🇮🇹"
-    passions = ["clean code", "music 🎵", "outdoors 🌲"]
-    fun_fact = "I debug better with music on 🎧"
+    passions = ["music 🎵", "outdoors 🌲"]
+    facts = "I code better with music on 🎧"
 ```
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:85409D,100:3e2c60&height=60"/>
+<img width="100%" src="assets/wave-divider.svg"/>
 
 ## 🛠️ &nbsp;tech stack
 
@@ -33,37 +33,68 @@ class Somix:
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:3e2c60,100:85409D&height=60"/>
+<img width="100%" src="assets/wave-divider.svg"/>
 
-## ⚔️ &nbsp;stats & achievements
+## 🗂️ &nbsp;featured projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/aka-somix/delgarbo">🗑️ delgarbo</a></h4>
+      <p>Gracefully deletes garbage on your laptop</p>
+      <img src="https://img.shields.io/badge/Shell-85409D?style=flat-square&logo=gnubash&logoColor=white"/>
+      <img src="https://img.shields.io/github/stars/aka-somix/delgarbo?style=flat-square&color=EEA727&labelColor=3e2c60&label=stars"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/aka-somix/eventbridge-gate">🔭 eventbridge-gate</a></h4>
+      <p>CLI tool for monitoring and debugging events on AWS EventBridge Bus</p>
+      <img src="https://img.shields.io/badge/Go-85409D?style=flat-square&logo=go&logoColor=white"/>
+      <img src="https://img.shields.io/github/stars/aka-somix/eventbridge-gate?style=flat-square&color=EEA727&labelColor=3e2c60&label=stars"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/aka-somix/aws-events-gate-tiny">⚡ aws-events-gate-tiny</a></h4>
+      <p>Debugging and monitoring events across all EventBridge buses in your AWS account</p>
+      <img src="https://img.shields.io/badge/Terraform-85409D?style=flat-square&logo=terraform&logoColor=white"/>
+      <img src="https://img.shields.io/github/stars/aka-somix/aws-events-gate-tiny?style=flat-square&color=EEA727&labelColor=3e2c60&label=stars"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/aka-somix/vocals-separator">🎵 vocals-separator</a></h4>
+      <p>Free tool for separating vocals from instruments in music tracks</p>
+      <img src="https://img.shields.io/badge/Python-85409D?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/github/stars/aka-somix/vocals-separator?style=flat-square&color=EEA727&labelColor=3e2c60&label=stars"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aka-somix&show_icons=true&bg_color=3e2c60&title_color=EEA727&text_color=ffffff&icon_color=85409D&border_color=85409D&border_radius=10"/>
-  &nbsp;
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aka-somix&bg_color=3e2c60&color=ffffff&line=85409D&point=EEA727&area=true&area_color=85409D&title_color=EEA727&hide_border=false&border_color=85409D" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
   <img height="180em" src="https://streak-stats.demolab.com?user=aka-somix&background=3e2c60&fire=EEA727&currStreakLabel=EEA727&ring=85409D&sideLabels=ffffff&sideNums=ffffff&currStreakNum=EEA727&border=85409D&border_radius=10"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aka-somix&layout=compact&bg_color=3e2c60&title_color=EEA727&text_color=ffffff&border_color=85409D&border_radius=10&langs_count=8"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=aka-somix&theme=algolia&column=6&margin-w=10&margin-h=10"/>
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aka-somix&theme=algolia&no-bg=true&column=7&margin-w=10&margin-h=10"/>
-</div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:85409D,100:3e2c60&height=60"/>
+<img width="100%" src="assets/wave-divider.svg"/>
 
 ## `// connect with me`
 
 <p align="center">
   <a href="https://about.salvatorecirone.dev">
-    <img src="https://img.shields.io/badge/Portfolio-85409D?style=for-the-badge&logo=firefox-browser&logoColor=EEA727&labelColor=3e2c60"/>
+    <img src="https://img.shields.io/badge/Portfolio-85409D?style=for-the-badge&logo=ghostfolio&logoColor=EEA727&labelColor=3e2c60"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/salvatore-cirone-it/">
@@ -75,7 +106,7 @@ class Somix:
   </a>
   &nbsp;
   <a href="mailto:salvatore.cirone@xfarm.ag">
-    <img src="https://img.shields.io/badge/Email-EEA727?style=for-the-badge&logo=gmail&logoColor=3e2c60&labelColor=3e2c60"/>
+    <img src="https://img.shields.io/badge/Email-85409D?style=for-the-badge&logo=mailgun&logoColor=EEA727&labelColor=3e2c60"/>
   </a>
 </p>
 
