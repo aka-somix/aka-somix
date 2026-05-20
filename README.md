@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3e2c60,100:85409D&height=200&section=header&text=Somix&fontSize=70&fontColor=EEA727&animation=fadeIn&fontAlignY=38&desc=Salvatore%20Cirone%20%7C%20Software%20Engineer&descAlignY=62&descSize=20&descColor=ffffff&fontFamily=JetBrains+Mono"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3e2c60,100:85409D&height=200&section=header&text=Somix&fontSize=70&fontColor=EEA727&animation=fadeIn&fontAlignY=38&desc=Salvatore%20Cirone%20%7C%20Software%20Engineer&descAlignY=62&descSize=20&descColor=ffffff"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=EEA727&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Salvatore+%F0%9F%91%8B;aka+somix;Software+Engineer+%F0%9F%9A%80;Based+in+Italy+%F0%9F%87%AE%F0%9F%87%B9" alt="Typing SVG" />
@@ -32,8 +32,6 @@ class Somix:
 </p>
 
 <br/>
-
-<img width="100%" src="assets/wave-divider.svg"/>
 
 ## 🗂️ &nbsp;featured projects
 
@@ -88,7 +86,6 @@ class Somix:
 
 <br/>
 
-<img width="100%" src="assets/wave-divider.svg"/>
 
 ## `// connect with me`
 
