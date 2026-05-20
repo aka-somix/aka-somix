@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3e2c60,100:85409D&height=200&section=header&text=akaSomix&fontSize=70&fontColor=EEA727&animation=fadeIn&fontAlignY=38&desc=Salvatore%20Cirone%20%7C%20Software%20Engineer&descAlignY=62&descSize=20&descColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3e2c60,100:85409D&height=200&section=header&text=Somix&fontSize=70&fontColor=EEA727&animation=fadeIn&fontAlignY=38&desc=Salvatore%20Cirone%20%7C%20Software%20Engineer&descAlignY=62&descSize=20&descColor=ffffff"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=EEA727&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Salvatore+%F0%9F%91%8B;aka+akaSomix;Software+Engineer+%F0%9F%9A%80;Based+in+Italy+%F0%9F%87%AE%F0%9F%87%B9" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=EEA727&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Salvatore+%F0%9F%91%8B;aka+aka-somix;Software+Engineer+%F0%9F%9A%80;Based+in+Italy+%F0%9F%87%AE%F0%9F%87%B9" alt="Typing SVG" />
 </p>
 
 <br/>
@@ -9,7 +9,7 @@
 ```python
 class Somix:
     name     = "Salvatore Cirone"
-    alias    = "akaSomix"
+    alias    = "aka-somix"
     role     = "Software Engineer"
     location = "Italy 🇮🇹"
     passions = ["clean code", "music 🎵", "outdoors 🌲"]
@@ -38,21 +38,21 @@ class Somix:
 ## ⚔️ &nbsp;stats & achievements
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akaSomix&show_icons=true&bg_color=3e2c60&title_color=EEA727&text_color=ffffff&icon_color=85409D&border_color=85409D&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aka-somix&show_icons=true&bg_color=3e2c60&title_color=EEA727&text_color=ffffff&icon_color=85409D&border_color=85409D&border_radius=10"/>
   &nbsp;
-  <img height="180em" src="https://streak-stats.demolab.com?user=akaSomix&background=3e2c60&fire=EEA727&currStreakLabel=EEA727&ring=85409D&sideLabels=ffffff&sideNums=ffffff&currStreakNum=EEA727&border=85409D&border_radius=10"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=aka-somix&background=3e2c60&fire=EEA727&currStreakLabel=EEA727&ring=85409D&sideLabels=ffffff&sideNums=ffffff&currStreakNum=EEA727&border=85409D&border_radius=10"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaSomix&layout=compact&bg_color=3e2c60&title_color=EEA727&text_color=ffffff&border_color=85409D&border_radius=10&langs_count=8"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aka-somix&layout=compact&bg_color=3e2c60&title_color=EEA727&text_color=ffffff&border_color=85409D&border_radius=10&langs_count=8"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akaSomix&theme=algolia&no-bg=true&column=7&margin-w=10&margin-h=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=aka-somix&theme=algolia&no-bg=true&column=7&margin-w=10&margin-h=10"/>
 </div>
 
 <br/>
