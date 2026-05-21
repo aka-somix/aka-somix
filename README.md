@@ -33,41 +33,6 @@ class Somix:
 
 <br/>
 
-## 🗂️ &nbsp;featured projects
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/aka-somix/delgarbo">🗑️ delgarbo</a></h4>
-      <p>Gracefully deletes garbage on your laptop</p>
-      <img src="https://img.shields.io/badge/Shell-85409D?style=flat-square&logo=gnubash&logoColor=white"/>
-      <img src="https://img.shields.io/github/stars/aka-somix/delgarbo?style=flat-square&color=EEA727&labelColor=3e2c60&label=stars"/>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/aka-somix/eventbridge-gate">🔭 eventbridge-gate</a></h4>
-      <p>CLI tool for monitoring and debugging events on AWS EventBridge Bus</p>
-      <img src="https://img.shields.io/badge/Go-85409D?style=flat-square&logo=go&logoColor=white"/>
-      <img src="https://img.shields.io/github/stars/aka-somix/eventbridge-gate?style=flat-square&color=EEA727&labelColor=3e2c60&label=stars"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/aka-somix/aws-events-gate-tiny">⚡ aws-events-gate-tiny</a></h4>
-      <p>Debugging and monitoring events across all EventBridge buses in your AWS account</p>
-      <img src="https://img.shields.io/badge/Terraform-85409D?style=flat-square&logo=terraform&logoColor=white"/>
-      <img src="https://img.shields.io/github/stars/aka-somix/aws-events-gate-tiny?style=flat-square&color=EEA727&labelColor=3e2c60&label=stars"/>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/aka-somix/vocals-separator">🎵 vocals-separator</a></h4>
-      <p>Free tool for separating vocals from instruments in music tracks</p>
-      <img src="https://img.shields.io/badge/Python-85409D?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/github/stars/aka-somix/vocals-separator?style=flat-square&color=EEA727&labelColor=3e2c60&label=stars"/>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aka-somix&bg_color=3e2c60&color=ffffff&line=85409D&point=EEA727&area=true&area_color=85409D&title_color=EEA727&hide_border=false&border_color=85409D" width="100%"/>
 </div>
